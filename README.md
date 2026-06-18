@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**aartijogi0505-wq/aartijogi0505-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Aarti 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI) student, 2nd year, at Maharishi Markandeshwar (Deemed to be University), Mullana, Ambala
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently working on strengthening my frontend development skills
+
+💻 Languages & Tools I know:
+- C
+- Python
+- HTML
+- CSS
+- JavaScript
+
+📚 Always eager to learn new technologies and improve my skills
+
+⭐️ Thanks for visiting my profile!
